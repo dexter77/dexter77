@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dexter77</h1>
-<h3 align="center">A passionate of coding</h3>
+<h3 align="center">A passionate of tech</h3>
 
-- 🔭 I’m currently working on **building my home web site**
+- 🔭 I’m currently learning on **DevOps engineer program**
 
 - 🌱 I’m currently learning **JavaScript and Ruby**
 
