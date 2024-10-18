@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning on **DevOps engineer program**
 
-- 🌱 I’m currently learning **JavaScript and Ruby**
+- 🌱 I’m currently learning **DevOps tools and process**
 
 - 📫 How to reach me **gueye.tamsir78@gmail.com**
 
